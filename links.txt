@@ -1,0 +1,1 @@
+http://davidsalter.com/2014/12/creating-a-mongodb-capped-collection-in-java.html     [ uses Morphia as well ]
